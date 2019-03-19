@@ -6,4 +6,8 @@
         Doctrine\Common\Cache\ArrayCache,
         Doctrine\DBAL\Logging\EchoSQLLogger;
 
+        class Doctrine{
+            
+        }
+
 ?>
