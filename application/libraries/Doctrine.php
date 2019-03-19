@@ -17,6 +17,7 @@
 
                 // Set up class loading. You could use different autoloaders, provided by your favorite framework,
                 // if you want to.
+
                 require_once APPPATH.'libraries/Doctrine/Common/ClassLoader.php';
 
                 $models_namespace = "Entities";
@@ -28,6 +29,7 @@
                 $proxiesClassLoader->register();
 
                 // Set up caches
+                
                 $config = new Configuration;
                 $cache = new ArrayCache;
                 $config->setMetadataCacheImpl($cache);
