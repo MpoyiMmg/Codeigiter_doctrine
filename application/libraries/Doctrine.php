@@ -29,7 +29,7 @@
                 $proxiesClassLoader->register();
 
                 // Set up caches
-                
+
                 $config = new Configuration;
                 $cache = new ArrayCache;
                 $config->setMetadataCacheImpl($cache);
