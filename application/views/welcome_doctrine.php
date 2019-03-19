@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>Welcome to doctrine</p>
+    <p>Doctrine est bien installé</p>
 </body>
 </html>
