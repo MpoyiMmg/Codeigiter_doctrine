@@ -1,2 +1,2 @@
 
-    Ce projet donne une bonne configuration de l'ORM doctrine
+    Configure doctrine ORM in a codeigniter project
